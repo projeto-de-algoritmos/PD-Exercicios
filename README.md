@@ -23,7 +23,7 @@ Para o vídeo eu disponibilizei no repositório e disponibilizei o vídeo no You
 
 [Repositório](video/video.mp4)
 
-[Youtube](https://youtu.be/)
+[Youtube]([https://youtu.be/](https://youtu.be/ICVEIXbYFYw))
 
 ## Resultados
 
